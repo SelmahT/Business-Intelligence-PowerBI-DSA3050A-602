@@ -137,6 +137,9 @@ This document includes:
 - Data model relationships
 - Dashboard evidence
 
+> GitHub may not preview  this whole PDF due to file size and formatting.  
+> Please **download the file** if issue persists to view the full report.
+> 
 ---
 
 ##  How to Navigate This Project (For Reviewers)
