@@ -21,15 +21,13 @@ The final output is an **interactive Power BI dashboard** supported by a **fully
 ##  Files in This Repository
 The repository contains **only the core required deliverables**, as listed below:
 
+```text
 Business-Intelligence-PowerBI-DSA3050A-602/
-|
 ├── DSA 3050A — Business Intelligence & Data Visualization (1).pdf
-|
 ├── DSA3050_PowerBI_MidSem602.pbix
-|
 ├── SampleSuperstore.csv
-|
 └── README.md
+```
 
 ---
 
