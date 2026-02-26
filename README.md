@@ -23,7 +23,7 @@ The repository contains **only the core required deliverables**, as listed below
 
 ```text
 Business-Intelligence-PowerBI-DSA3050A-602/
-├── DSA3050_PowerBI_Report.pdf
+├── DSA3050A_PowerBI_Report.pdf
 ├── DSA3050_PowerBI_MidSem602.pbix
 ├── SampleSuperstore.csv
 └── README.md
@@ -43,7 +43,7 @@ Business-Intelligence-PowerBI-DSA3050A-602/
   - Data model (Star Schema)
   - Dashboards and visuals
 
-- **DSA3050_PowerBI_Report.pdf**  
+- **DSA3050A_PowerBI_Report.pdf**  
   Comprehensive project report containing:
   - Data preparation steps with explanations
   - Applied transformation evidence (screenshots)
@@ -131,7 +131,7 @@ The Power BI dashboard includes:
 
 ##  Full Project Documentation
 📘 **To review the complete analytical process, applied steps, and evidence:**  
-👉 **[Click here to open the project PDF](./DSA3050_PowerBI_Report.pdf)**
+👉 **[Click here to open the project PDF](./DSA3050A_PowerBI_Report.pdf)**
 
 This document includes:
 - Step-by-step transformations
