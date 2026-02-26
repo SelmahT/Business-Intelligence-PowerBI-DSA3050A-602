@@ -123,7 +123,7 @@ The Power BI dashboard includes:
 
 ##  Published Dashboard
 🔗 **Public Power BI Dashboard Link:**  
-👉 *([Insert Publish-to-Web link here after publishing](https://app.powerbi.com/groups/me/reports/052e247f-a6b2-430c-86ab-e3834f51b949/14d9d1856680a04a02ca?experience=power-bi))*
+👉 *(https://app.powerbi.com/groups/me/reports/052e247f-a6b2-430c-86ab-e3834f51b949/14d9d1856680a04a02ca?experience=power-bi)*
 
 ---
 
